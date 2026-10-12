@@ -1,0 +1,20 @@
+# Secrets and keys
+.env
+.env.*
+*.pem
+*.key
+secrets.json
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
